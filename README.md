@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Simon! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0CFF66C0&center=true&vCenter=true&lines=Junior+QA+Engineer+from+Omsk%2C+Russia)](https://git.io/typing-svg)
 
@@ -32,3 +30,5 @@
 - Redis;
 - JMeter;
 
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
