@@ -3,17 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0CFF66C0&center=true&vCenter=true&lines=Junior+QA+Engineer+from+Omsk%2C+Russia)](https://git.io/typing-svg)
 
-<!--
-**Snick-P/Snick-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🎯 В ближайшм будующем я планирую:
+	- Получить оффер и стать частью крутой команды;
+	- Поднять свои навыки ручного тестирования на более высокий уровень;
+	- Изучить автоматизацию тестирования;
+	
+  🔨 Изученные мною инструменты:
+  - Linux terminal (на базе GitBash);
+  - <h1> <a href=https://github.com/Snick-P/Postman/" target="_blank">Postman</a> <h1> ;
+  - SQL (относительно простые запросы уровня JOIN и вложенных запросов);
+  - 
