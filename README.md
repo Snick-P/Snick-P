@@ -21,7 +21,7 @@
 - <a href=https://github.com/Snick-P/Documents/>Пример тестовой документации</a>
 
 🎓 Планирую изучить в ближайшее время:
-
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 - Swagger;
 - Fiddler;
 - Kibana;
@@ -31,4 +31,4 @@
 - JMeter;
 
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
