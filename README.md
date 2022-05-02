@@ -10,6 +10,6 @@
 	
   🔨 Изученные мною инструменты:
   - Linux terminal (на базе GitBash);
-  - <h1> <a href=https://github.com/Snick-P/Postman/" target="_blank">Postman</a> <h1> ;
+  - <a href=https://github.com/Snick-P/Postman/>Postman</a>  ;
   - SQL (относительно простые запросы уровня JOIN и вложенных запросов);
   - 
