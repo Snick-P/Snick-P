@@ -30,5 +30,10 @@
 - Redis;
 - JMeter;
 
+[![Telegram](icons/telegram.png)](https://t.me/snicky_pls)
+[![Mail](icons/mail.png)](mailto:prosk.simon@gmail.com)
+[![HeadHunter](icons/hh.png)](https://omsk.hh.ru/resume/74e3b715ff09804fb80039ed1f586159704e31)
+[![GitHub](icons/github.png)](https://github.com/Snick-P)
+
 
 
