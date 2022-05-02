@@ -14,11 +14,12 @@
 	
   🔨 Изученные инструменты:
   
-- <a href=https://github.com/Snick-P/GitBash/>Linux terminal (на базе GitBash)</a>;
-- <a href=https://github.com/Snick-P/Postman/>Postman</a>  ;
-- SQL (относительно простые запросы уровня JOIN и вложенных запросов);
-- <a href=https://github.com/Snick-P/Charles-Proxy/>Charles Proxy</a>
 - <a href=https://github.com/Snick-P/Documents/>Пример тестовой документации</a>
+- <a href=https://github.com/Snick-P/Postman/>Postman</a>  ;
+- <a href=https://github.com/Snick-P/Charles-Proxy/>Charles Proxy</a>;
+- <a href=https://github.com/Snick-P/GitBash/>Linux terminal (на базе GitBash)</a>;
+- SQL (относительно простые запросы уровня JOIN и вложенных запросов);
+
 
 🎓 Планирую изучить в ближайшее время:
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
