@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0CFF66C0&center=true&vCenter=true&lines=Junior+QA+Engineer+from+Omsk%2C+Russia)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0CFF66C0&center=true&vCenter=true&lines=Junior+QA+Engineer+from+Omsk%2C+Russia)](https://git.io/typing-svg)
 
 Итак, скорее всего Вы оказались тут нажав на ссылку в резюме, поэтому коротко о мне и моих навыках: 
 
