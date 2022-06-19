@@ -17,7 +17,7 @@
 - <a href=https://github.com/Snick-P/Charles-Proxy/>Charles Proxy</a>;
 - <a href=https://github.com/Snick-P/GitBash/>Linux terminal (на базе GitBash)</a>;
 - DevTools;
-- SQL (относительно простые запросы уровня JOIN и вложенных запросов);
+- SQL (запросы уровня JOIN и вложенных запросов);
 - Jira (изучен основной функицонал, но не хватает опыта работы на комерческом проекте);
 - Confluence (изучен основной функицонал, но не хватает опыта работы на комерческом проекте);
 
