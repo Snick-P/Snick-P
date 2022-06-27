@@ -1,6 +1,3 @@
-<h1 align="center">Hi there, I'm Simon! 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 
 Меня зовут Семён.
 Сейчас я на пути становления QA engineer и данная страница посвящена моим наработкам и решениям в рамках самостоятельного изучения и обучения по курсам.
