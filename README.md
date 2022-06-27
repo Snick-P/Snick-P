@@ -29,7 +29,7 @@
 - Kibana;
 - Redis;
 - JMeter;
-- Java;
+- <a href=https://github.com/Snick-P/javaLesson/>Java</a>;
 - Python;
 
 Для связи:
