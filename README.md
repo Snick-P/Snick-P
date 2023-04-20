@@ -9,7 +9,6 @@
 - <a href=https://github.com/Snick-P/autotest-with-selenide-junit5-spring/>Pet-проект, UI автотесты (стадия разработки)</a>;
 - <a href=https://github.com/Snick-P/Postman/>Postman</a>;
 - <a href=https://github.com/Snick-P/javaLesson/>Изучение Java>;
-- <a href=https://github.com/Snick-P/Documents/>Пример тестовой документации</a>;
 - <a href=https://github.com/Snick-P/GitBash/>Linux terminal (личная шпаргалка)</a>;
 
 Список не полный, обновляется и дополняется по мере выполнения работ.
