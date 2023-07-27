@@ -7,6 +7,7 @@
 	
  Что можно найти внутри:
 - <a href=https://github.com/Snick-P/autotest-with-selenide-junit5-spring/>Pet-проект, UI автотесты </a>;
+- <a href=https://github.com/Snick-P/rest-assured-api-test/>Pet-проект, API автотесты (стадия разработки) </a>;
 - <a href=https://github.com/Snick-P/Postman/>Postman</a>;
 - <a href=https://github.com/Snick-P/javaLesson/>Изучение Java</a>;
 
